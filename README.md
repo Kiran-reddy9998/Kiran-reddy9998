@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran-reddy9998&show_icons=true&locale=en" alt="kiran-reddy9998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-reddy9998&" alt="kiran-reddy9998" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kiran-reddy9998
+)](https://github.com/ryo-ma/github-profile-trophy)
