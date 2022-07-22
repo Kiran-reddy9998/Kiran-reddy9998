@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran-reddy9998" alt="kiran-reddy9998" /></a> </p>
 
-- 🔭 I’m currently working on **making android apps using python.**
+- 🔭 I’m currently working on **Android Development.**
 
-- 🌱 I’m currently learning **Image processing in python.**
+- 🌱 I’m currently learning **AWS.**
 
 - 👯 I’m looking to collaborate on **Python intermediate projects.**
 
